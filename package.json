@@ -1,0 +1,12 @@
+{
+  "name": "Cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "chengyuming <yumingtarget@gmail.com> (https://github.com/cym-git)",
+  "license": "MIT"
+}
